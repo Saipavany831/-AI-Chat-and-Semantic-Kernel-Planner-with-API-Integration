@@ -1,0 +1,13 @@
+.webButton{
+    
+        background-color: rgb(45, 43, 43);
+        color:white;
+        text-align: center;
+        border-style: solid;
+        color:white;
+        width:auto;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    
+}

@@ -1,0 +1,12 @@
+.sendButton {
+    background-color: rgb(45, 43, 43);
+    text-align: center;
+    border: 1px solid red;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    width:80px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
