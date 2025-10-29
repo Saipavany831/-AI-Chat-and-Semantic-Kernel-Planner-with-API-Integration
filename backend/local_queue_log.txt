@@ -1,0 +1,12 @@
+{
+                    "Id": "0b270f89-b5cc-4b4d-8b14-e23ccf5a1bb6",
+                    "Date": "2025-10-28",
+                    "UserQuery": "hlo",
+                    "AssistantResponse": "🤖 Local AI (Mock Mode): You asked — 'hlo'. This is a simulated offline response."
+                }
+{
+                    "Id": "adf58812-fb58-48e2-b1b8-27f806b4a0cc",
+                    "Date": "2025-10-28",
+                    "UserQuery": "Tell me a joke",
+                    "AssistantResponse": "🤖 Local AI (Mock Mode): You asked — 'Tell me a joke'. This is a simulated offline response."
+                }
